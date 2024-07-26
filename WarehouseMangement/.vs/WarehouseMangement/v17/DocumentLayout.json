@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\models\\categorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\categorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\configurations\\categorygroupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\configurations\\categorygroupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\models\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\configurations\\partnerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\configurations\\partnerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\configurations\\inventorystatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\configurations\\inventorystatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\configurations\\inventoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\configurations\\inventoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\configurations\\billdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\configurations\\billdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\configurations\\billconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\configurations\\billconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\models\\inventorystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\inventorystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C685B244-AFF4-483F-810E-2B5EAAE3518B}|Warehouse.View\\Warehouse.View.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C685B244-AFF4-483F-810E-2B5EAAE3518B}|Warehouse.View\\Warehouse.View.csproj|solutionrelative:warehouse.view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\context\\warehousedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\context\\warehousedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\repos\\repos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\repos\\repos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|d:\\admin\\work\\prj clone\\warehousemangement\\warehousemangement\\warehouse.data\\repos\\irepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5E6B3C-8CB5-4B17-B194-3E08DDE45B8E}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\repos\\irepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "Warehouse.Data\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:55:51.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Warehouse.Data\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:53:46.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\Category.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Category.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:57:24.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryGroup.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\CategoryGroup.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\CategoryGroup.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\CategoryGroup.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\CategoryGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:58:07.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillDetail.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\BillDetail.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\BillDetail.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\BillDetail.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\BillDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:04:43.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Warehouse.Data\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:41:00.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryGroupConfiguration.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\CategoryGroupConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Configurations\\CategoryGroupConfiguration.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\CategoryGroupConfiguration.cs",
+              "RelativeToolTip": "Warehouse.Data\\Configurations\\CategoryGroupConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:16:30.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Warehouse.Data\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:46:35.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PartnerConfiguration.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\PartnerConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Configurations\\PartnerConfiguration.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\PartnerConfiguration.cs",
+              "RelativeToolTip": "Warehouse.Data\\Configurations\\PartnerConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:48:24.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryStatusConfiguration.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\InventoryStatusConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Configurations\\InventoryStatusConfiguration.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\InventoryStatusConfiguration.cs",
+              "RelativeToolTip": "Warehouse.Data\\Configurations\\InventoryStatusConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:52:35.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryConfiguration.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\InventoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Configurations\\InventoryConfiguration.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\InventoryConfiguration.cs",
+              "RelativeToolTip": "Warehouse.Data\\Configurations\\InventoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvxEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:49:30.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BillDetailConfiguration.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\BillDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Configurations\\BillDetailConfiguration.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\BillDetailConfiguration.cs",
+              "RelativeToolTip": "Warehouse.Data\\Configurations\\BillDetailConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvwsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:18:40.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BillConfiguration.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\BillConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Configurations\\BillConfiguration.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Configurations\\BillConfiguration.cs",
+              "RelativeToolTip": "Warehouse.Data\\Configurations\\BillConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:04:10.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\Role.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Role.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:27:10.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\User.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\User.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:25:20.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\Product.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Product.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:02:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Partner.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Partner.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\Partner.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Partner.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\Partner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:09:13.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventoryStatus.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\InventoryStatus.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\InventoryStatus.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\InventoryStatus.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\InventoryStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:23:38.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\Inventory.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Inventory.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\Inventory.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvw8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:57:52.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\Bill.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Models\\Bill.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\Bill.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:06:56.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.View\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Warehouse.View\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.View\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Warehouse.View\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T07:17:57.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WarehouseDb.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Context\\WarehouseDb.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Context\\WarehouseDb.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Context\\WarehouseDb.cs",
+              "RelativeToolTip": "Warehouse.Data\\Context\\WarehouseDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:40:55.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Repos.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Repos\\Repos.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Repos\\Repos.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Repos\\Repos.cs",
+              "RelativeToolTip": "Warehouse.Data\\Repos\\Repos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:33:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepos.cs",
+              "DocumentMoniker": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Repos\\IRepos.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Repos\\IRepos.cs",
+              "ToolTip": "D:\\Admin\\work\\prj clone\\WarehouseMangement\\WarehouseMangement\\Warehouse.Data\\Repos\\IRepos.cs",
+              "RelativeToolTip": "Warehouse.Data\\Repos\\IRepos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:33:19.477Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

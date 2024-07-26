@@ -1,0 +1,26 @@
+/* Reset CSS cơ bản */
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+  
+  body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+  }
+
+/* Styles cho container chính */
+.warehouse {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+  }
+/* Styles cho phần body */
+.warehouse__body {
+      display: flex;
+      flex-grow: 1;
+      transition: all 0.3s ease-in-out;
+  }
+
+  

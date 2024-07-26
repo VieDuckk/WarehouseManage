@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WarehouseMangement/WarehouseMangement.sln
+/WarehouseMangement/WarehouseMangement.sln
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.pdb
+
+# Ignore build results
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
