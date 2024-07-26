@@ -13,5 +13,7 @@ namespace Warehouse.Data.Models
         public Guid IdCategoryGroup { get; set; }
         public CategoryGroup CategoryGroup { get; set; }
         public bool Status { get; set; }
+        public ICollection<Product> Products { get; set; }
+
     }
 }
