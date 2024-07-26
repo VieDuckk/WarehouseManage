@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản Lý Kho - Danh Sách Phiếu Nhập Hàng</title>
+    <link rel="stylesheet" href="importbill.css">
+    <link href="../assets/icon/fontawesome/css/fontawesome.css" rel="stylesheet" />
+    <link href="../assets/icon/fontawesome/css/brands.css" rel="stylesheet" />
+    <link href="../assets/icon/fontawesome/css/solid.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="warehouse">
+        <header class="warehouse__header">
+            <div class="warehouse__logo">
+                <button id="sidebarToggle" class="warehouse__menu-toggle">☰</button>
+                <img src="../assets/image/logo.png" alt="Logo công ty" class="warehouse__logo-img">
+            </div>
+            <div class="warehouse__user">
+                <span class="warehouse__user-name">Xin chào, Nguyễn Văn A</span>
+            </div>
+        </header>
+        <div class="warehouse__body">
+            <nav id="sidebar" class="warehouse__sidebar">
+                <ul class="warehouse__menu">
+                    <li class="warehouse__menu-item">
+                        <a href="#" class="warehouse__menu-link">Tổng quan</a>
+                    </li>
+                    <li class="warehouse__menu-item">
+                        <a href="#" class="warehouse__menu-link">Sản phẩm</a>
+                    </li>
+                    <li class="warehouse__menu-item warehouse__menu-item--active">
+                        <a href="#" class="warehouse__menu-link">Nhập kho</a>
+                    </li>
+                    <li class="warehouse__menu-item">
+                        <a href="#" class="warehouse__menu-link">Xuất kho</a>
+                    </li>
+                    <li class="warehouse__menu-item">
+                        <a href="#" class="warehouse__menu-link">Báo cáo</a>
+                    </li>
+                </ul>
+            </nav>
+            <main class="warehouse__main">
+                <h1 class="warehouse__title">Danh Sách Phiếu Nhập Hàng</h1>
+                
+                <div class="search-bar">
+                    <form action="#" method="GET">
+                        <label for="from-date">Từ ngày:</label>
+                        <input type="date" id="from-date" name="from-date">
+                        
+                        <label for="to-date">Đến ngày:</label>
+                        <input type="date" id="to-date" name="to-date">
+                        
+                        <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+                    </form>
+                </div>
+                
+                <table class="bill-list">
+                    <thead>
+                        <tr>
+                            <th>Tên phiếu nhập</th>
+                            <th>Ngày nhập</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Phiếu nhập hàng #001</td>
+                            <td>15/07/2024</td>
+                            <td>
+                                <button class="btn btn-watch"><i class="fas fa-eye"></i> Xem</button>
+                                <button class="btn btn-edit"><i class="fas fa-edit"></i> Sửa</button>
+                                <button class="btn btn-delete"><i class="fas fa-trash-alt"></i> Xóa</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Phiếu nhập hàng #002</td>
+                            <td>18/07/2024</td>
+                            <td>
+                                <button class="btn btn-watch"><i class="fas fa-eye"></i> Xem</button>
+                                <button class="btn btn-edit"><i class="fas fa-edit"></i> Sửa</button>
+                                <button class="btn btn-delete"><i class="fas fa-trash-alt"></i> Xóa</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Phiếu nhập hàng #003</td>
+                            <td>22/07/2024</td>
+                            <td>
+                                <button class="btn btn-watch"><i class="fas fa-eye"></i> Xem</button>
+                                <button class="btn btn-edit"><i class="fas fa-edit"></i> Sửa</button>
+                                <button class="btn btn-delete"><i class="fas fa-trash-alt"></i> Xóa</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Phiếu nhập hàng #004</td>
+                            <td>25/07/2024</td>
+                            <td>
+                                <button class="btn btn-watch"><i class="fas fa-eye"></i> Xem</button>
+                                <button class="btn btn-edit"><i class="fas fa-edit"></i> Sửa</button>
+                                <button class="btn btn-delete"><i class="fas fa-trash-alt"></i> Xóa</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Phiếu nhập hàng #005</td>
+                            <td>28/07/2024</td>
+                            <td>
+                                <button class="btn btn-watch"><i class="fas fa-eye"></i> Xem</button>
+                                <button class="btn btn-edit"><i class="fas fa-edit"></i> Sửa</button>
+                                <button class="btn btn-delete"><i class="fas fa-trash-alt"></i> Xóa</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div class="pagination">
+                    <button class="btn btn-primary btn-view-more">Xem thêm</button>
+                </div>
+            </main>
+        </div>
+    </div>
+    <script src="../assets/js/script.js"></script>
+</body>
+</html>

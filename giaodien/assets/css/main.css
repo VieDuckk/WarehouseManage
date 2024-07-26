@@ -1,0 +1,30 @@
+/* Styles cho phần nội dung chính */
+.warehouse__main {
+      flex-grow: 1;
+      padding: 20px;
+      transition: all 0.3s ease-in-out;
+  }
+  
+  .warehouse__main--expanded {
+      margin-left: 0;
+  }
+  
+  .warehouse__activity {
+      color: #0062BB;
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 5px;
+  }
+  
+  .warehouse__title {
+      color: #333;
+      margin-right: 20px;
+  }
+  
+  .warehouse__content {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  

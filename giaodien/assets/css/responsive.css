@@ -1,0 +1,36 @@
+/* Responsive adjustments */
+@media (max-width: 768px) {
+      .warehouse__body {
+          position: relative;
+      }
+  
+      .warehouse__sidebar {
+          position: absolute;
+          top: 0;
+          left: 0;
+          height: 100%;
+          z-index: 1000;
+      }
+  
+      .warehouse__sidebar--hidden {
+          transform: translateX(-100%);
+      }
+  
+      .warehouse__main {
+          margin-left: 0;
+      }
+  
+      .warehouse__dashboard {
+          grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      }
+      .search-bar form {
+            flex-direction: column;
+            align-items: stretch;
+        }
+    
+        .import-list {
+            font-size: 14px;
+        }
+    
+  }
+  

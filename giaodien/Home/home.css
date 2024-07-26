@@ -1,0 +1,62 @@
+@import url('../assets/css/GlobalStyle.css');
+@import url('../assets/css/header.css');
+@import url('../assets/css/sidebar.css');
+@import url('../assets/css/main.css');
+@import url('../assets/css/responsive.css');
+
+/* Styles cho dashboard */
+.warehouse__dashboard {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      padding: 20px 0;
+  }
+  
+  .dashboard-card {
+      background-color: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      text-align: center;
+      transition: transform 0.3s ease;
+  }
+  
+  .dashboard-card:hover {
+      transform: translateY(-5px);
+  }
+  
+  .dashboard-card__header {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 10px;
+      padding: 10px;
+      background-color: rgba(0, 0, 0, 0.05); /* Màu nền mờ phủ hết chiều rộng */
+      width: 100%; /* Đảm bảo phần tử này phủ toàn bộ chiều rộng của thẻ */
+      border-radius: 8px 8px 0 0; /* Góc bo tròn phía trên */
+  }
+  
+  .dashboard-card__icon {
+      font-size: 24px;
+      color: #0062BB;
+      margin-right: 10px;
+  }
+  
+  .dashboard-card__title {
+      color: #333;
+      font-size: 18px;
+      margin: 0;
+  }
+  
+  .dashboard-card__value {
+      color: #0062BB;
+      font-size: 28px;
+      font-weight: bold;
+      margin-bottom: 5px;
+  }
+  
+  .dashboard-card__description {
+      color: #666;
+      font-size: 14px;
+  }
+  

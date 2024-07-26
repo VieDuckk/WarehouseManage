@@ -1,0 +1,73 @@
+@import url('../assets/css/GlobalStyle.css');
+@import url('../assets/css/header.css');
+@import url('../assets/css/sidebar.css');
+@import url('../assets/css/main.css');
+@import url('../assets/css/responsive.css');
+@import url('../assets/css/Button.css');
+
+
+/* Search Bar */
+.search-bar {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 4px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .search-bar form {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+  }
+  
+  .search-bar label {
+      font-weight: bold;
+  }
+  
+  .search-bar input[type="date"] {
+      padding: 8px;
+      border: 1px solid #ced4da;
+      border-radius: 4px;
+  }
+  /* Import List Table */
+.bill-list {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: #fff;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+  }
+  
+  .bill-list th, 
+  .bill-list td {
+      border: 1px solid #dee2e6;
+      padding: 12px;
+      text-align: left;
+  }
+  
+  .bill-list th {
+      background-color: #f8f9fa;
+      font-weight: bold;
+      color: #495057;
+  }
+  
+  .bill-list tr:nth-child(even) {
+      background-color: #f8f9fa;
+  }
+  
+  .bill-list tr:hover {
+      background-color: #e9ecef;
+  }
+  
+  /* Pagination */
+  .pagination {
+      display: flex;
+      justify-content: center;
+  }
+  
+  .btn-view-more {
+      padding: 10px 20px;
+      font-size: 16px;
+  }
+  
