@@ -1,0 +1,25 @@
+@import url('../assets/css/GlobalStyle.css');
+@import url('../assets/css/header.css');
+@import url('../assets/css/sidebar.css');
+@import url('../assets/css/main.css');
+@import url('../assets/css/responsive.css');
+@import url('../assets/css/Button.css');
+
+  
+  .statistics {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+  }
+  
+  .statistics__chart {
+      flex: 1;
+      min-width: 300px;
+  }
+  
+  .statistics__title {
+      font-size: 20px;
+      margin-bottom: 10px;
+      color: #333;
+  }
+ 

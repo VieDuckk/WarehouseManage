@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản Lý Kho - Thống Kê</title>
+    <link rel="stylesheet" href="accounting.css">
+    <link href="../assets/icon/fontawesome/css/fontawesome.css" rel="stylesheet" />
+    <link href="../assets/icon/fontawesome/css/brands.css" rel="stylesheet" />
+    <link href="../assets/icon/fontawesome/css/solid.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="warehouse">
+        <header class="warehouse__header">
+            <div class="warehouse__logo">
+                <button id="sidebarToggle" class="warehouse__menu-toggle">☰</button>
+                <a href="#"><img src="../assets/image/logo.png" alt="Logo công ty" class="warehouse__logo-img"></a>
+            </div>
+            <div class="warehouse__user">
+                <span class="warehouse__user-name">Xin chào, Nguyễn Văn A</span>
+            </div>
+        </header>
+        <div class="warehouse__body">
+            <nav id="sidebar" class="warehouse__sidebar">
+                <ul class="warehouse__menu">
+                    <li class="warehouse__menu-item">
+                        <a href="#" class="warehouse__menu-link">Tổng quan</a>
+                    </li>
+                    <li class="warehouse__menu-item">
+                        <a href="#" class="warehouse__menu-link">Sản phẩm</a>
+                    </li>
+                    <li class="warehouse__menu-item">
+                        <a href="#" class="warehouse__menu-link">Nhập kho</a>
+                    </li>
+                    <li class="warehouse__menu-item">
+                        <a href="#" class="warehouse__menu-link">Xuất kho</a>
+                    </li>
+                    <li class="warehouse__menu-item warehouse__menu-item--active">
+                        <a href="#" class="warehouse__menu-link">Báo cáo</a>
+                    </li>
+                </ul>
+            </nav>
+            <main class="warehouse__main">
+                <div class="warehouse__title-container">
+                    <h1 class="warehouse__title">Thống Kê</h1>
+                </div>
+                <section class="statistics">
+                    <div class="statistics__chart">
+                        <h2 class="statistics__title">Biểu Đồ Doanh Thu</h2>
+                        <canvas id="revenueChart"></canvas>
+                    </div>
+                    <div class="statistics__chart">
+                        <h2 class="statistics__title">Biểu Đồ Số Lượng Hàng Tồn</h2>
+                        <canvas id="stockChart"></canvas>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+    <script src="../assets/js/script.js"></script>
+    <script>
+        // Sample data for charts
+        const revenueData = {
+            labels: ['Tháng 1', 'Tháng 2', 'Tháng 3', 'Tháng 4', 'Tháng 5', 'Tháng 6'],
+            datasets: [{
+                label: 'Doanh thu (triệu VND)',
+                data: [500, 700, 600, 800, 750, 900],
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                borderColor: 'rgba(54, 162, 235, 1)',
+                borderWidth: 1
+            }]
+        };
+
+        const stockData = {
+            labels: ['Sản phẩm A', 'Sản phẩm B', 'Sản phẩm C', 'Sản phẩm D', 'Sản phẩm E'],
+            datasets: [{
+                label: 'Số lượng tồn',
+                data: [120, 150, 100, 80, 130],
+                backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 1
+            }]
+        };
+
+        const configRevenueChart = {
+            type: 'line',
+            data: revenueData,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        };
+
+        const configStockChart = {
+            type: 'bar',
+            data: stockData,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        };
+
+        const revenueChart = new Chart(
+            document.getElementById('revenueChart'),
+            configRevenueChart
+        );
+
+        const stockChart = new Chart(
+            document.getElementById('stockChart'),
+            configStockChart
+        );
+    </script>
+</body>
+
+</html>

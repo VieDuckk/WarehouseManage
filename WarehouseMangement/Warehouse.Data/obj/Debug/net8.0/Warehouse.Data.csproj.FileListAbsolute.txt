@@ -1,0 +1,6 @@
+D:\Admin\work\prj clone\WarehouseMangement\WarehouseMangement\Warehouse.Data\obj\Debug\net8.0\Warehouse.Data.csproj.AssemblyReference.cache
+D:\Admin\work\prj clone\WarehouseMangement\WarehouseMangement\Warehouse.Data\obj\Debug\net8.0\Warehouse.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Admin\work\prj clone\WarehouseMangement\WarehouseMangement\Warehouse.Data\obj\Debug\net8.0\Warehouse.Data.AssemblyInfoInputs.cache
+D:\Admin\work\prj clone\WarehouseMangement\WarehouseMangement\Warehouse.Data\obj\Debug\net8.0\Warehouse.Data.AssemblyInfo.cs
+D:\Admin\work\prj clone\WarehouseMangement\WarehouseMangement\Warehouse.Data\obj\Debug\net8.0\Warehouse.Data.csproj.CoreCompileInputs.cache
+D:\Admin\work\prj clone\WarehouseMangement\WarehouseMangement\Warehouse.Data\obj\Debug\net8.0\Warehouse.Data.sourcelink.json
